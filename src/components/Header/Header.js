@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Header = ()=>(
-        <div className="header bg-gradient-primary py-7 py-lg-8 pt-lg-9 mt--7" z-index="-1">
+        <div className="header bg-gradient-primary py-7 py-lg-8 pt-lg-9 mt--7">
                 <div className="container">
                     <div className="header-body text-center mb-7">
                     <div className="row justify-content-center">
