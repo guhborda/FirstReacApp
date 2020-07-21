@@ -1,12 +1,13 @@
 import React from 'react';
+import 'bootstrap';
 import './assets/css/argon.min.css';
-
-import Header from './components/Header/Header';
-
+import Navbar from './components/Navbar/Navbar';
+import Main from './pages/main';
 function App() {
   return (
     <div className="App">
-      <Header />
+      <Navbar />
+      <Main />
     </div>
   );
 }
