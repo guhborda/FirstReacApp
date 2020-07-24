@@ -123,7 +123,7 @@ export default class Main extends Component{
                         </form>
                     </div>
                     </div>
-                <div className="card col-12 col-md-4 card-pricing border-0 text-center mb-4">
+                    <div className="card col-12 col-md-4 card-pricing border-0 text-center mb-4">
                     <div className="card-header bg-transparent">
                         <div className="icon icon-xs icon-shape bg-primary shadow text-white" >
                             <i className="fas fa-chart-line"></i>
